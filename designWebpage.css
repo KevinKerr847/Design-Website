@@ -9,6 +9,10 @@ body {
    font-size: 2.5rem;
 }
 
+#leadLineHumanity {
+    padding-top: 2.5rem;
+}
+
 .blurb p {
     color: Black;
     font-weight: 100;
@@ -21,6 +25,9 @@ body {
     margin-bottom: 100px;
 }
 
+.icon {
+    padding-bottom: 1rem;
+}
 
 #mainNavbar {
     font-size: 1.5rem;
@@ -51,6 +58,15 @@ body {
     font-size: 4rem;
 }
 
+#contactHeadingGroup span {
+    color: white;
+}
+
+#contactHeadingGroup h1 {
+    font-weight: 100;
+    font-size: 4rem;
+}
+
 .navbar.scrolled {
     background: black;
     transition: background 300ms;
@@ -66,6 +82,8 @@ body {
     }
 }
 
-
+#contact {
+    padding-top: 7rem;
+}
 
 
